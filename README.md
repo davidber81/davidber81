@@ -43,7 +43,7 @@
 <div align="center">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidber81&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidber81&show_icons=true&theme=cobalt)
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=%233776AB)
 ![Static Badge](https://img.shields.io/badge/-pytest-red?style=plastic&logo=pytest)
