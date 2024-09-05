@@ -27,7 +27,16 @@
 
 - [Анализатор прайс-листов.](https://github.com/davidber81/Stock-analysis)
 
-  Стек: python, numpy, pandas 
+  Стек: python, numpy, pandas
+
+- [Телеграм-бот](https://github.com/davidber81/Telegram-API.)
+
+  Стек: telebot‎, PIL, io
+
+- [Программа для создания изображений на основе TKinter](https://github.com/davidber81/TKinter)
+
+  Стек: python, tkinter‎, PIL, unittest‎
+  
 
 ###
 
